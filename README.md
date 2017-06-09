@@ -10,7 +10,7 @@ Numbers divisible by 15 are replaced with "pingpong"
 The web application will count upto the give number. <br>
 An example is; example input; [5] <br>
                example output; [1,2,3,4,5] 
-The web application also puts an exception on the multiples following numbers <br>
+<br> The web application also puts an exception on the multiples following numbers <br>
 3,5,15 so that; <br> 
 Numbers divisible by 3 are replaced with "ping"<br>
 Numbers divisible by 5 are replaced with "pong"<br>
